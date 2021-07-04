@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/ACER/FPGA/seven_segment/seven_segment_src_isim_beh.exe" -prj "C:/Users/ACER/FPGA/seven_segment/seven_segment_src_beh.prj" "work.seven_segment_src" 
