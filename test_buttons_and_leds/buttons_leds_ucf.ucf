@@ -1,0 +1,8 @@
+net button1 loc = b18;
+net button2 loc = d18;
+net button3 loc = e18;
+net button4 loc = h13;
+net led1 loc = j14;
+net led2 loc = j15;
+net led3 loc = k15;
+net led4 loc = k14;
