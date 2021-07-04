@@ -1,0 +1,7 @@
+net "clk" loc = b8;
+net "reset" loc = b18;
+net "pause" loc = d18;
+net "count_out<0>" loc = j14;
+net "count_out<1>" loc = j15;
+net "count_out<2>" loc = k15;
+net "count_out<3>" loc = k14;
