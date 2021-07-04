@@ -1,0 +1,11 @@
+net "a" loc = g18;
+net "b" loc = h18;
+net "clk" loc = b8;
+net "output<0>" loc = j14;
+net "output<1>" loc= j15;
+net "output<2>" loc = k15;
+net "output<3>" loc = k14;
+net "output<4>" loc = e17;
+net "output<5>" loc = p15;
+net "output<6>" loc = f4;
+net "output<7>" loc = r4;
